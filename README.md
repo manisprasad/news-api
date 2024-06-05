@@ -1,6 +1,6 @@
 # news-api
-This API provides endpoints to fetch the latest and trending news from various sources including NDTV, Hindustan TImes, Times India.
-
+This API provides endpoints to fetch the latest and trending news from various sources in real time including NDTV, Hindustan TImes, Times India.
+api-link  `https://news-api-sooty.vercel.app/`
 ## Endpoints
 
 ### Get Latest News
