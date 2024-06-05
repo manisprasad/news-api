@@ -1,5 +1,5 @@
 # news-api
-
+This API provides endpoints to fetch the latest and trending news from various sources.
 ## Endpoints
 
 ### Get Latest News
