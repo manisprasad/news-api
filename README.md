@@ -3,7 +3,7 @@ This API provides endpoints to fetch the latest and trending news from various s
 
 
 
-api-link  https://news-api-sooty.vercel.app/
+api-link for latest-news  https://news-api-sooty.vercel.app/latest-news
 ## Endpoints
 
 ### Get Latest News
